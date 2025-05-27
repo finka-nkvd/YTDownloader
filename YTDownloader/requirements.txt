@@ -1,8 +1,0 @@
-flet
-qrcode[pil]
-pytube
-instaloader
-tiktokapi
-moviepy
-tqdm
-requests
