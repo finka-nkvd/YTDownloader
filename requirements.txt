@@ -1,0 +1,5 @@
+pytube
+customtkinter
+Pillow
+qrcode
+pyperclip
