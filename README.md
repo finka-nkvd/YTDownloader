@@ -19,7 +19,14 @@
 2. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/finka-nkvd/YTDownloader.git
+3. Установите зависимости
+   ```bash
+   pip install -r requirements.txt
+4. Запустите main.py
 
 ### Запуск файла
 1. Убедитесь, что скачали все файлы
-2. Запустите main.py
+2. Установите зависимости
+   ```bash
+   pip install -r requirements.txt
+3. Запустите main.py
